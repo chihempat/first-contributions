@@ -7,7 +7,7 @@
 - [Michal Urban](https://github.com/MichalUSER/first-contributions)
 - [Han Shih](https://github.com/frankShih)
 - [Krittin Jaruvisut](https://github.com/krittin-58)
-- [Anderson]()
+- [Anderson]
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Arsh Dhillon](https://github.com/arshd1230)
 - [Ockiya Beinmonyu](https://github.com/annonBytes)
@@ -102,6 +102,7 @@
 - [James Greilick](https://github.com/jgreilick)
 - [Luiz Felipe Silva Vale](https://github.com/luizvale/)
 - Alexa Carrington (https://github.com/aacarring)
+- Bryce Videka
 - Gbenga Kusade (https://github.com/jagkush)
 - Bryce Videka 
 - [Vikas Bansal](https://github.com/Vikuman/)
@@ -128,6 +129,12 @@
 - [Austin Nguyen](https://github.com/austinvan295)
 - Pooja Muthalik
 - [Eli Zhu](https://github.com/mobulture)
+- [Chintan Patel] (https://github.com/chihempat)
+- [Ansuman] (https://github.com/anshammer)
+- [Dave Organ] (https://github.com/dk-obrien)
+- [Austin Nguyen] (https://github.com/austinvan295)
+Pooja Muthalik
+- [Eli Zhu] (https://github.com/mobulture)
 - [Ezekiel Nizamani](https://github.com/ezekielnizamani)
 - [Daniel Hee](https://github.com/DanWlker)
 - [Max Monciardini](https://github.com/maxmonciardini)
@@ -268,7 +275,7 @@
 - [Guang Lim](https://github.com/gylim0604)
 - Alejandro Rodriquez
 - Richard Cho
-- [Jeffrey Chen](https://github.com/Jechen27) 
+- [Jeffrey Chen](https://github.com/Jechen27)
 - Ingrid Marcal
 - Yedukrishna K
 - Shubhra Jyoti(https://github.com/Shubhraaa)
@@ -297,7 +304,7 @@
 - Motunrayo
 - Thomas Steinacher(https://github.com/tomSteini)
 - Morgan
-- Kinjal Rat  
+- Kinjal Rat
 - [Koushik Joshi] (https://github.com/koushikjoshi)
 - Joyal Raphel(https://github.com/joyal007)
 - Namrata Surve
@@ -1545,7 +1552,7 @@
 - [Nikunj Das Kasat](https://github.com/nikunjdk)
 - [Abhay Mishra](https://github.com/mabhay3420)
 - [Ananya Agarwal](https://github.com/AnanyaAgarwal25)
-- [Sriram](https://github.com/BLNDLYBLV) 
+- [Sriram](https://github.com/BLNDLYBLV)
 - [Ali Jbareen](https://github.com/alijbareen)
 - [Ashutosh Dixit](https://github.com/Di-ashX)
 - [Manasa Samaga](https://github.com/manasasamaga)
